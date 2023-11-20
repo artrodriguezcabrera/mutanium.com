@@ -1205,6 +1205,10 @@ a.visit {
     border-radius: 3px;
 }
 
+.contact-area {
+    background: #F0F0F0;
+}
+
 
 /*
 * ----------------------------------------------------------------------------------------
@@ -1213,7 +1217,7 @@ a.visit {
 */
 
 .footer-top-area {
-    background: #F0F0F0;
+    background: white;
 }
 
 .contact-form {
