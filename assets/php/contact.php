@@ -1,7 +1,7 @@
 <?php 
 	$errors = '';
 	$limit_size=10000000;
-	$myemail = 'admin@wordpressboss.com'; /*Replace with your email*/
+	$myemail = 'arturo@codigonyc.com'; /*Replace with your email*/
 	if(empty($_POST['name'])  ||
 	   empty($_POST['email']) ||
 	   empty($_POST['subject']) ||
@@ -28,7 +28,7 @@
 	{
 	$to = $myemail;
 	$email_subject = "A New Message Awaits: $subject";
-	$txt = "You have received a new message from Apolo Template. Details are given below.\n Name: $name \n Email: $email \n Message: \n $message";
+	$txt = "You have received a new message from the Mutanium.com website. Details are given below.\n Name: $name \n Email: $email \n Message: \n $message";
 	
 	// preparing attachments
 	$files = array();
