@@ -358,7 +358,8 @@ ul.header-social li a:hover {
 }
 
 .logo {
-    padding-top: 28px;
+    padding-top: 25px;
+    width: 180px;
 }
 
 .logo a {
@@ -999,6 +1000,22 @@ a.visit {
 .single-post-control.right {
     right: 0px;
     left: auto;
+}
+
+.services-link {
+    color: #333;
+    text-transform: uppercase;
+    /* font-size: 13px;
+    letter-spacing: 1px;
+    padding: 30px 15px; */
+    -webkit-transition: .3s;
+    transition: .3s;
+    font-weight: 700;
+}
+.services-link:hover {
+    background: none;
+    color: rgb(251, 188, 5);
+    transition: all 0.3s ease-out 0s;
 }
 
 
