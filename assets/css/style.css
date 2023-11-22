@@ -170,7 +170,7 @@ a.read-more {
     font-size: 30px;
     color: #fff;
     text-align: center;
-    background-color: #FBBC05;
+    background-color: #00FF29;
     position: fixed;
     bottom: 30px;
     right: 30px;
@@ -383,7 +383,7 @@ ul.header-social li a:hover {
 
 .mainmenu .navbar-nav li a:hover {
     background: none;
-    color: #FBBC05;
+    color: #00FF29;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
@@ -391,7 +391,7 @@ ul.header-social li a:hover {
 .nav li a:focus,
 .nav li a:hover {
     background: none;
-    color: #FBBC05;
+    color: #00FF29;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
@@ -1014,7 +1014,7 @@ a.visit {
 }
 .services-link:hover {
     background: none;
-    color: rgb(251, 188, 5);
+    color: #00FF29;
     transition: all 0.3s ease-out 0s;
 }
 
@@ -1246,7 +1246,7 @@ a.visit {
 
 .single-contact i {
     font-size: 30px;
-    color: #FBBC05;
+    color: #00ff29;
 }
 
 .single-contact {
