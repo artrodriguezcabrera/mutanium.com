@@ -29,14 +29,14 @@ Version      : 1.0
             $('.preloader').fadeOut();
             $('.preloader-area').delay(350).fadeOut('slow');
 
-            $('.work .work-posts').isotope({
-                itemSelector: '.col-md-4'
-            });
+            // $('.work .work-posts').isotope({
+            //     itemSelector: '.col-md-4'
+            // });
 
             // init Isotope
-            var $container = $('.work-posts').isotope({
-                itemSelector: '.item'
-            });
+            // var $container = $('.work-posts').isotope({
+            //     itemSelector: '.item'
+            // });
             // filter functions
             var filterFns = {
                 // show if number is greater than 50
@@ -242,7 +242,7 @@ Version      : 1.0
          *  WOW JS
          * ----------------------------------------------------------------------------------------
          */
-        new WOW().init();
+        // new WOW().init();
     });
 
 })(jQuery);
