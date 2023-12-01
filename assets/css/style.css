@@ -1017,6 +1017,9 @@ a.visit {
     color: #00FF29;
     transition: all 0.3s ease-out 0s;
 }
+.services-link:focus {
+    color: #333;
+}
 
 
 /*
