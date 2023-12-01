@@ -414,7 +414,10 @@ a.slide-btn {
     font-size: 14px;
 }
 
-a.slide-btn:hover {}
+a.slide-btn:hover {
+    font-weight: 600;
+    transition: all 0.5s ease-out;
+}
 
 .hero-logo {
     width: 65%;
