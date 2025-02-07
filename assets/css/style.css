@@ -851,6 +851,41 @@ a.slide-btn:hover {
 
 /*
 * ----------------------------------------------------------------------------------------
+* FEATURED PARTNERS SECTION
+* ----------------------------------------------------------------------------------------
+*/
+
+.partners-area {
+    background-color: #333;
+}
+
+.partners-area h2 {
+    color: white;
+}
+
+.partners-area .section-title h2:before {
+    background: white !important;
+}
+
+.partners-area .section-title h2:after {
+    background: white !important;
+}
+
+.partners-area .images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    flex-wrap: wrap;
+    padding-top: 30px;
+}
+
+.partner-image {
+    width: 200px;
+}
+
+/*
+* ----------------------------------------------------------------------------------------
 * 10.WORK CSS STYLE
 * ----------------------------------------------------------------------------------------
 */
